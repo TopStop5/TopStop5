@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**TopStop5/TopStop5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
+- 🔭 I’m currently working on [Python Bot Template](https://github.com/TopStop5/Python-Discord-Bot-Template), & [Terminator V1☣️](https://github.com/TopStop5/Terminator)
+- 🌱 I’m currently learning Python & Java
+- 🤔 I’m looking for help with Making and hosting a discord bot 24/7
+- 💬 Ask me about Anything you wish
+- 📫 Reach me on discord! Clicks#8882
+- ⚡ Pronouns: He/Him
 
-Here are some ideas to get you started:
+## Check out my favorite repositories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [~~Timmy~~](https://github.com/TopStop5/Timmy)
+
+* [Terminator V1☣️](https://github.com/TopStop5/Terminator)
+
+- [Python Discord Bot Template](https://github.com/TopStop5/Python-Discord-Bot-Template)
