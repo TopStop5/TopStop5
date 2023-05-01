@@ -11,6 +11,6 @@
 
 - [~~Timmy~~](https://github.com/TopStop5/Timmy)
 
-* [Terminator V1☣️](https://github.com/TopStop5/Terminator)
+* [Terminator V2🩸](https://github.com/TopStop5/Terminator)
 
 - [Python Discord Bot Template](https://github.com/TopStop5/Python-Discord-Bot-Template)
