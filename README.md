@@ -9,8 +9,4 @@
 
 ## Check out my favorite repositories
 
-- [~~Timmy~~](https://github.com/TopStop5/Timmy)
-
 * [Terminator V2🩸](https://github.com/TopStop5/Terminator)
-
-- [Python Discord Bot Template](https://github.com/TopStop5/Python-Discord-Bot-Template)
