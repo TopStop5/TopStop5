@@ -1,9 +1,9 @@
 
 # About Me
-- 🔭 I’m currently working on [Terminator V2🩸](https://github.com/TopStop5/Terminator) and [Discord themes](https://github.com/TopStop5/discord-themes)
+- 🔭 Check out my [Fiverr](https://www.fiverr.com/topstop5?up_rollout=true)!
 - 🌱 I’m currently learning Python, Java & CSS
 -  💬 Ask me about Anything you wish
-- 📫 Reach me on discord! Clicks#8882
+- 📫 Reach me on discord! ccid.
 - ⚡ Pronouns: He/Him
 
 ## Check out my favorite repositories
