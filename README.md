@@ -3,7 +3,7 @@
 - 🔭 Check out my [Fiverr](https://www.fiverr.com/topstop5?up_rollout=true)!
 - 🌱 I’m currently learning Python, Java & CSS
 -  💬 Ask me about Anything you wish
-- 📫 Reach me on discord! ccid.
+- 📫 Reach me on discord! cidthefish
 - ⚡ Pronouns: He/Him
 
 ## Check out my favorite repositories
