@@ -9,6 +9,6 @@
 ## Check out my favorite repositories
 
 * [Terminator V2🩸](https://github.com/TopStop5/Terminator)
-
+* [📖Nover Scraper📖](https://github.com/TopStop5/novelscraper)
 
 
